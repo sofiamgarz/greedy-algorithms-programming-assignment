@@ -4,6 +4,8 @@ approximation ratios, the figure of the report and the tight family
 used in the optional part.
 
 Run with:  python experiments.py
+
+Author: Sofía Muñiz Garzón
 """
 
 import math

@@ -6,6 +6,8 @@ Discrete Euclidean k-center in the plane.
     covering_radius   value of the objective R(P, C)
 
 Centers are always taken from the input points.
+
+Author: Sofía Muñiz Garzón
 """
 
 import math
